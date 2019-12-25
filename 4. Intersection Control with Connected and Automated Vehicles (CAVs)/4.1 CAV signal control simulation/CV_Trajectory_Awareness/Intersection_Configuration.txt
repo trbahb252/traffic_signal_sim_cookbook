@@ -1,0 +1,5 @@
+#This file defines the lane phase configurations of each intersection in the network Plymouth&Huron
+1
+1571 17 16.0
+5 2 2 0 3 8 8 0 1 6 6 0 7 4 4 0 0
+220 300 300 300
