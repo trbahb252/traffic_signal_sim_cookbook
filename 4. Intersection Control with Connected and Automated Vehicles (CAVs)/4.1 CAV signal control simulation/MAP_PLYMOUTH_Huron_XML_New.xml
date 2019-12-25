@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<J2735.GID.blob>
+	<Version>2</Version>
+	<Name>Plymouth_Huron</Name>
+	<IntersectionID>1571</IntersectionID>
+	<Resolution>decimeter</Resolution>
+	<Geometry>
+		<ReferencePoint>
+			<Latitude>42.302592</Latitude>
+			<Longitude>-83.704377</Longitude>
+			<Elevation>2752.0</Elevation>
+		</ReferencePoint>
+		<No_Appr>4</No_Appr>
+		<Approach Number="1">
+			<No_Ingress_Lane>3</No_Ingress_Lane>
+			<Lane Number="1">
+				<Type>1</Type>
+				<Attributes>228</Attributes>
+				<Width>325</Width>
+				<No_nodes>2</No_nodes>
+				<Nodes>
+					<Node Number="1">
+						<Latitude>42.302577</Latitude>
+						<Longitude>-83.704620</Longitude>
+					</Node>
+					<Node Number="2">
+						<Latitude>42.302564</Latitude>
+						<Longitude>-83.705168</Longitude>
+					</Node>
+				</Nodes>
+				<No_Conn_Lane>1</No_Conn_Lane>
+				<Lane_Connections>
+					<Lane_Connection Number="1">
+						<Conn_Lane_ID>8</Conn_Lane_ID>
+						<Maneuver>2</Maneuver>
+					</Lane_Connection>
+				</Lane_Connections>
+			</Lane>
+			<Lane Number="2">
+				<Type>1</Type>
+				<Attributes>226</Attributes>
+				<Width>325</Width>
+				<No_nodes>3</No_nodes>
+				<Nodes>
+					<Node Number="1">
+						<Latitude>42.302550</Latitude>
+						<Longitude>-83.704621</Longitude>
+					</Node>
+					<Node Number="2">
+						<Latitude>42.302536</Latitude>
+						<Longitude>-83.705169</Longitude>
+					</Node>
+					<Node Number="3">
+						<Latitude>42.302488</Latitude>
+						<Longitude>-83.707069</Longitude>
+					</Node>
+				</Nodes>
+				<No_Conn_Lane>1</No_Conn_Lane>
+				<Lane_Connections>
+					<Lane_Connection Number="1">
+						<Conn_Lane_ID>12</Conn_Lane_ID>
+						<Maneuver>4</Maneuver>
+					</Lane_Connection>
+				</Lane_Connections>
+			</Lane>
+			<Lane Number="3">
+				<Type>1</Type>
+				<Attributes>170</Attributes>
+				<Width>325</Width>
+				<No_nodes>3</No_nodes>
+				<Nodes>
+					<Node Number="1">
+						<Latitude>42.302520</Latitude>
+						<Longitude>-83.704619</Longitude>
+					</Node>
+					<Node Number="2">
+						<Latitude>42.302506</Latitude>
+						<Longitude>-83.705167</Longitude>
+					</Node>
+					<Node Number="3">
+						<Latitude>42.302458</Latitude>
+						<Longitude>-83.707068</Longitude>
+					</Node>
+				</Nodes>
+				<No_Conn_Lane>2</No_Conn_Lane>
+				<Lane_Connections>
+					<Lane_Connection Number="1">
+						<Conn_Lane_ID>12</Conn_Lane_ID>
+						<Maneuver>4</Maneuver>
+					</Lane_Connection>
+					<Lane_Connection Number="2">
+						<Conn_Lane_ID>17</Conn_Lane_ID>
+						<Maneuver>3</Maneuver>
+					</Lane_Connection>
+				</Lane_Connections>
+			</Lane>
+			<No_Egress_Lane>1</No_Egress_Lane>
+			<Lane Number="4">
+				<Type>1</Type>
+				<Attributes>1</Attributes>
+				<Width>325</Width>
+				<No_nodes>3</No_nodes>
+				<Nodes>
+					<Node Number="1">
+						<Latitude>42.302608</Latitude>
+						<Longitude>-83.704618</Longitude>
+					</Node>
+					<Node Number="2">
+						<Latitude>42.302595</Latitude>
+						<Longitude>-83.705165</Longitude>
+					</Node>
+					<Node Number="3">
+						<Latitude>42.302547</Latitude>
+						<Longitude>-83.707070</Longitude>
+					</Node>
+				</Nodes>
+				<No_Conn_Lane>0</No_Conn_Lane>
+			</Lane>
+		</Approach>
+		<Approach Number="2">
+			<No_Ingress_Lane>3</No_Ingress_Lane>
+			<Lane Number="5">
+				<Type>1</Type>
+				<Attributes>228</Attributes>
+				<Width>325</Width>
+				<No_nodes>2</No_nodes>
+				<Nodes>
+					<Node Number="1">
+						<Latitude>42.302736</Latitude>
+						<Longitude>-83.704379</Longitude>
+					</Node>
+					<Node Number="2">
+						<Latitude>42.303059</Latitude>
+						<Longitude>-83.704395</Longitude>
+					</Node>
+				</Nodes>
+				<No_Conn_Lane>1</No_Conn_Lane>
+				<Lane_Connections>
+					<Lane_Connection Number="1">
+						<Conn_Lane_ID>12</Conn_Lane_ID>
+						<Maneuver>2</Maneuver>
+					</Lane_Connection>
+				</Lane_Connections>
+			</Lane>
+			<Lane Number="6">
+				<Type>1</Type>
+				<Attributes>226</Attributes>
+				<Width>325</Width>
+				<No_nodes>7</No_nodes>
+				<Nodes>
+					<Node Number="1">
+						<Latitude>42.302733</Latitude>
+						<Longitude>-83.704419</Longitude>
+					</Node>
+					<Node Number="2">
+						<Latitude>42.303057</Latitude>
+						<Longitude>-83.704435</Longitude>
+					</Node>
+					<Node Number="3">
+						<Latitude>42.303379</Latitude>
+						<Longitude>-83.704535</Longitude>
+					</Node>
+					<Node Number="4">
+						<Latitude>42.303711</Latitude>
+						<Longitude>-83.704751</Longitude>
+					</Node>
+					<Node Number="5">
+						<Latitude>42.303948</Latitude>
+						<Longitude>-83.704976</Longitude>
+					</Node>
+					<Node Number="6">
+						<Latitude>42.304309</Latitude>
+						<Longitude>-83.705511</Longitude>
+					</Node>
+					<Node Number="7">
+						<Latitude>42.304710</Latitude>
+						<Longitude>-83.706136</Longitude>
+					</Node>
+				</Nodes>
+				<No_Conn_Lane>1</No_Conn_Lane>
+				<Lane_Connections>
+					<Lane_Connection Number="1">
+						<Conn_Lane_ID>17</Conn_Lane_ID>
+						<Maneuver>4</Maneuver>
+					</Lane_Connection>
+				</Lane_Connections>
+			</Lane>
+			<Lane Number="7">
+				<Type>1</Type>
+				<Attributes>168</Attributes>
+				<Width>325</Width>
+				<No_nodes>3</No_nodes>
+				<Nodes>
+					<Node Number="1">
+						<Latitude>42.302731</Latitude>
+						<Longitude>-83.704461</Longitude>
+					</Node>
+					<Node Number="2">
+						<Latitude>42.303054</Latitude>
+						<Longitude>-83.704480</Longitude>
+					</Node>
+					<Node Number="3">
+						<Latitude>42.303372</Latitude>
+						<Longitude>-83.704577</Longitude>
+					</Node>
+				</Nodes>
+				<No_Conn_Lane>2</No_Conn_Lane>
+				<Lane_Connections>
+					<Lane_Connection Number="1">
+						<Conn_Lane_ID>17</Conn_Lane_ID>
+						<Maneuver>4</Maneuver>
+					</Lane_Connection>
+					<Lane_Connection Number="2">
+						<Conn_Lane_ID>4</Conn_Lane_ID>
+						<Maneuver>3</Maneuver>
+					</Lane_Connection>
+				</Lane_Connections>
+			</Lane>
+			<No_Egress_Lane>1</No_Egress_Lane>
+			<Lane Number="8">
+				<Type>1</Type>
+				<Attributes>1</Attributes>
+				<Width>325</Width>
+				<No_nodes>7</No_nodes>
+				<Nodes>
+					<Node Number="1">
+						<Latitude>42.302735</Latitude>
+						<Longitude>-83.704338</Longitude>
+					</Node>
+					<Node Number="2">
+						<Latitude>42.303059</Latitude>
+						<Longitude>-83.704350</Longitude>
+					</Node>
+					<Node Number="3">
+						<Latitude>42.303392</Latitude>
+						<Longitude>-83.704455</Longitude>
+					</Node>
+					<Node Number="4">
+						<Latitude>42.303750</Latitude>
+						<Longitude>-83.704659</Longitude>
+					</Node>
+					<Node Number="5">
+						<Latitude>42.303988</Latitude>
+						<Longitude>-83.704907</Longitude>
+					</Node>
+					<Node Number="6">
+						<Latitude>42.304360</Latitude>
+						<Longitude>-83.705453</Longitude>
+					</Node>
+					<Node Number="7">
+						<Latitude>42.304761</Latitude>
+						<Longitude>-83.706089</Longitude>
+					</Node>
+				</Nodes>
+				<No_Conn_Lane>0</No_Conn_Lane>
+			</Lane>
+		</Approach>
+		<Approach Number="3">
+		<No_Ingress_Lane>3</No_Ingress_Lane>
+			<Lane Number="9">
+				<Type>1</Type>
+				<Attributes>228</Attributes>
+				<Width>325</Width>
+				<No_nodes>2</No_nodes>
+				<Nodes>
+					<Node Number="1">
+						<Latitude>42.302591</Latitude>
+						<Longitude>-83.704126</Longitude>
+					</Node>
+					<Node Number="2">
+						<Latitude>42.302611</Latitude>
+						<Longitude>-83.703397</Longitude>
+					</Node>
+				</Nodes>
+				<No_Conn_Lane>1</No_Conn_Lane>
+				<Lane_Connections>
+					<Lane_Connection Number="1">
+						<Conn_Lane_ID>17</Conn_Lane_ID>
+						<Maneuver>2</Maneuver>
+					</Lane_Connection>
+				</Lane_Connections>
+			</Lane>
+			<Lane Number="10">
+				<Type>1</Type>
+				<Attributes>226</Attributes>
+				<Width>325</Width>
+				<No_nodes>5</No_nodes>
+				<Nodes>
+					<Node Number="1">
+						<Latitude>42.302617</Latitude>
+						<Longitude>-83.704126</Longitude>
+					</Node>
+					<Node Number="2">
+						<Latitude>42.302636</Latitude>
+						<Longitude>-83.703397</Longitude>
+					</Node>
+					<Node Number="3">
+						<Latitude>42.302671</Latitude>
+						<Longitude>-83.702149</Longitude>
+					</Node>
+					<Node Number="4">
+						<Latitude>42.302734</Latitude>
+						<Longitude>-83.701483</Longitude>
+					</Node>
+					<Node Number="5">
+						<Latitude>42.302874</Latitude>
+						<Longitude>-83.700754</Longitude>
+					</Node>
+				</Nodes>
+				<No_Conn_Lane>1</No_Conn_Lane>
+				<Lane_Connections>
+					<Lane_Connection Number="1">
+						<Conn_Lane_ID>4</Conn_Lane_ID>
+						<Maneuver>4</Maneuver>
+					</Lane_Connection>
+				</Lane_Connections>
+			</Lane>
+			<Lane Number="11">
+				<Type>1</Type>
+				<Attributes>170</Attributes>
+				<Width>325</Width>
+				<No_nodes>5</No_nodes>
+				<Nodes>
+					<Node Number="1">
+						<Latitude>42.302649</Latitude>
+						<Longitude>-83.704125</Longitude>
+					</Node>
+					<Node Number="2">
+						<Latitude>42.302669</Latitude>
+						<Longitude>-83.703396</Longitude>
+					</Node>
+					<Node Number="3">
+						<Latitude>42.302708</Latitude>
+						<Longitude>-83.702153</Longitude>
+					</Node>
+					<Node Number="4">
+						<Latitude>42.302763</Latitude>
+						<Longitude>-83.701489</Longitude>
+					</Node>
+					<Node Number="5">
+						<Latitude>42.302902</Latitude>
+						<Longitude>-83.700771</Longitude>
+					</Node>
+				</Nodes>
+				<No_Conn_Lane>2</No_Conn_Lane>
+				<Lane_Connections>
+					<Lane_Connection Number="1">
+						<Conn_Lane_ID>4</Conn_Lane_ID>
+						<Maneuver>4</Maneuver>
+					</Lane_Connection>
+					<Lane_Connection Number="2">
+						<Conn_Lane_ID>8</Conn_Lane_ID>
+						<Maneuver>3</Maneuver>
+					</Lane_Connection>
+				</Lane_Connections>
+			</Lane>
+			<No_Egress_Lane>1</No_Egress_Lane>
+			<Lane Number="12">
+				<Type>1</Type>
+				<Attributes>1</Attributes>
+				<Width>325</Width>
+				<No_nodes>5</No_nodes>
+				<Nodes>
+					<Node Number="1">
+						<Latitude>42.302565</Latitude>
+						<Longitude>-83.704125</Longitude>
+					</Node>
+					<Node Number="2">
+						<Latitude>42.302581</Latitude>
+						<Longitude>-83.703398</Longitude>
+					</Node>
+					<Node Number="3">
+						<Latitude>42.302618</Latitude>
+						<Longitude>-83.702144</Longitude>
+					</Node>
+					<Node Number="4">
+						<Latitude>42.302677</Latitude>
+						<Longitude>-83.701467</Longitude>
+					</Node>
+					<Node Number="5">
+						<Latitude>42.302821</Latitude>
+						<Longitude>-83.700731</Longitude>
+					</Node>
+				</Nodes>
+				<No_Conn_Lane>0</No_Conn_Lane>
+			</Lane>
+		</Approach>
+		<Approach Number="4">
+			<No_Ingress_Lane>4</No_Ingress_Lane>
+			<Lane Number="13">
+				<Type>1</Type>
+				<Attributes>228</Attributes>
+				<Width>325</Width>
+				<No_nodes>3</No_nodes>
+				<Nodes>
+					<Node Number="1">
+						<Latitude>42.302430</Latitude>
+						<Longitude>-83.704363</Longitude>
+					</Node>
+					<Node Number="2">
+						<Latitude>42.301944</Latitude>
+						<Longitude>-83.704347</Longitude>
+					</Node>
+					<Node Number="3">
+						<Latitude>42.301338</Latitude>
+						<Longitude>-83.704318</Longitude>
+					</Node>
+				</Nodes>
+				<No_Conn_Lane>1</No_Conn_Lane>
+				<Lane_Connections>
+					<Lane_Connection Number="1">
+						<Conn_Lane_ID>4</Conn_Lane_ID>
+						<Maneuver>2</Maneuver>
+					</Lane_Connection>
+				</Lane_Connections>
+			</Lane>
+			<Lane Number="14">
+				<Type>1</Type>
+				<Attributes>226</Attributes>
+				<Width>325</Width>
+				<No_nodes>5</No_nodes>
+				<Nodes>
+					<Node Number="1">
+						<Latitude>42.302430</Latitude>
+						<Longitude>-83.704322</Longitude>
+					</Node>
+					<Node Number="2">
+						<Latitude>42.301947</Latitude>
+						<Longitude>-83.704304</Longitude>
+					</Node>
+					<Node Number="3">
+						<Latitude>42.301338</Latitude>
+						<Longitude>-83.704280</Longitude>
+					</Node>
+					<Node Number="4">
+						<Latitude>42.300435</Latitude>
+						<Longitude>-83.704244</Longitude>
+					</Node>
+					<Node Number="5">
+						<Latitude>42.299737</Latitude>
+						<Longitude>-83.704238</Longitude>
+					</Node>
+				</Nodes>
+				<No_Conn_Lane>1</No_Conn_Lane>
+				<Lane_Connections>
+					<Lane_Connection Number="1">
+						<Conn_Lane_ID>8</Conn_Lane_ID>
+						<Maneuver>4</Maneuver>
+					</Lane_Connection>
+				</Lane_Connections>
+			</Lane>
+			<Lane Number="15">
+				<Type>1</Type>
+				<Attributes>226</Attributes>
+				<Width>325</Width>
+				<No_nodes>5</No_nodes>
+				<Nodes>
+					<Node Number="1">
+						<Latitude>42.302431</Latitude>
+						<Longitude>-83.704282</Longitude>
+					</Node>
+					<Node Number="2">
+						<Latitude>42.301948</Latitude>
+						<Longitude>-83.704262</Longitude>
+					</Node>
+					<Node Number="3">
+						<Latitude>42.301339</Latitude>
+						<Longitude>-83.704239</Longitude>
+					</Node>
+					<Node Number="4">
+						<Latitude>42.300437</Latitude>
+						<Longitude>-83.704197</Longitude>
+					</Node>
+					<Node Number="5">
+						<Latitude>42.299737</Latitude>
+						<Longitude>-83.704195</Longitude>
+					</Node>
+				</Nodes>
+				<No_Conn_Lane>1</No_Conn_Lane>
+				<Lane_Connections>
+					<Lane_Connection Number="1">
+						<Conn_Lane_ID>8</Conn_Lane_ID>
+						<Maneuver>4</Maneuver>
+					</Lane_Connection>
+				</Lane_Connections>
+			</Lane>
+			<Lane Number="16">
+				<Type>1</Type>
+				<Attributes>168</Attributes>
+				<Width>325</Width>
+				<No_nodes>3</No_nodes>
+				<Nodes>
+					<Node Number="1">
+						<Latitude>42.302430</Latitude>
+						<Longitude>-83.704240</Longitude>
+					</Node>
+					<Node Number="2">
+						<Latitude>42.301951</Latitude>
+						<Longitude>-83.704221</Longitude>
+					</Node>
+					<Node Number="3">
+						<Latitude>42.301340</Latitude>
+						<Longitude>-83.704197</Longitude>
+					</Node>
+				</Nodes>
+				<No_Conn_Lane>1</No_Conn_Lane>
+				<Lane_Connections>
+					<Lane_Connection Number="1">
+						<Conn_Lane_ID>12</Conn_Lane_ID>
+						<Maneuver>3</Maneuver>
+					</Lane_Connection>
+				</Lane_Connections>
+			</Lane> 
+			<No_Egress_Lane>1</No_Egress_Lane>
+			<Lane Number="17">
+				<Type>1</Type>
+				<Attributes>1</Attributes>
+				<Width>325</Width>
+				<No_nodes>4</No_nodes>
+				<Nodes>
+					<Node Number="1">
+						<Latitude>42.302429</Latitude>
+						<Longitude>-83.704420</Longitude>
+					</Node>
+					<Node Number="2">	
+						<Latitude>42.301339</Latitude>
+						<Longitude>-83.704413</Longitude>
+					</Node>
+					<Node Number="3">	
+						<Latitude>42.300435</Latitude>
+						<Longitude>-83.704405</Longitude>
+					</Node>
+					<Node Number="4">	
+						<Latitude>42.299739</Latitude>
+						<Longitude>-83.704404</Longitude>
+					</Node>
+				</Nodes>
+				<No_Conn_Lane>0</No_Conn_Lane>
+			</Lane>
+		</Approach>
+	</Geometry>
+</J2735.GID.blob>  
