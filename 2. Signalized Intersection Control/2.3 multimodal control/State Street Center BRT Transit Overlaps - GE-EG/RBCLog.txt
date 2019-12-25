@@ -1,0 +1,105 @@
+-----------------------------------------------------------------
+### (Friday, December 20, 2019 -- 2:40:39 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Center BRT Phase Insertion - GE-EG\state_1300s.rbc) --> File Saved
+-----------------------------------------------------------------
+### (Friday, December 20, 2019 -- 2:29:37 PM) ###
+-----------------------------------------------------------------
+### (Friday, December 20, 2019 -- 2:29:03 PM) ###
+-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:35:58 PM) ###
+### (Tuesday, December 17, 2019 -- 2:33:27 PM) ###
+### (Tuesday, December 17, 2019 -- 2:29:35 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion plus GE-EG\state_800s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:33:27 PM) ###
+### (Tuesday, December 17, 2019 -- 2:29:35 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersect-------------------------------------------------------------------------------------------------
+### (Friday, December 20, 2019 -- 2:29:37 PM) ###
+-----------------------------------------------------------------
+### (Friday, December 20, 2019 -- 2:29:03 PM) ###
+-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:35:58 PM) ###
+### (Tuesday, December 17, 2019 -- 2:33:27 PM) ###
+### (Tuesday, December 17, 2019 -- 2:29:35 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion plus GE-EG\state_800s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:33:27 PM) ###
+### (Tuesday, December 17, 2019 -- 2:29:35 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersect-------------------------------------------------------------------------------------------------
+### (Friday, December 20, 2019 -- 2:29:37 PM) ###
+-----------------------------------------------------------------
+### (Friday, December 20, 2019 -- 2:29:03 PM) ###
+-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:35:58 PM) ###
+### (Tuesday, December 17, 2019 -- 2:33:27 PM) ###
+### (Tuesday, December 17, 2019 -- 2:29:35 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion plus GE-EG\state_800s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:33:27 PM) ###
+### (Tuesday, December 17, 2019 -- 2:29:35 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersect-------------------------------------------------------------------------------------------------
+### (Friday, December 20, 2019 -- 2:29:37 PM) ###
+-----------------------------------------------------------------
+### (Friday, December 20, 2019 -- 2:29:03 PM) ###
+-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:35:58 PM) ###
+### (Tuesday, December 17, 2019 -- 2:33:27 PM) ###
+### (Tuesday, December 17, 2019 -- 2:29:35 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion plus GE-EG\state_800s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:33:27 PM) ###
+### (Tuesday, December 17, 2019 -- 2:29:35 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersect-------------------------------------------------------------------------------------------------
+### (Friday, December 20, 2019 -- 2:29:37 PM) ###
+-----------------------------------------------------------------
+### (Friday, December 20, 2019 -- 2:29:03 PM) ###
+-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:35:58 PM) ###
+### (Tuesday, December 17, 2019 -- 2:33:27 PM) ###
+### (Tuesday, December 17, 2019 -- 2:29:35 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion plus GE-EG\state_800s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:33:27 PM) ###
+### (Tuesday, December 17, 2019 -- 2:29:35 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersect-------------------------------------------------------------------------------------------------
+### (Friday, December 20, 2019 -- 2:29:37 PM) ###
+-----------------------------------------------------------------
+### (Friday, December 20, 2019 -- 2:29:03 PM) ###
+-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:35:58 PM) ###
+### (Tuesday, December 17, 2019 -- 2:33:27 PM) ###
+### (Tuesday, December 17, 2019 -- 2:29:35 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion plus GE-EG\state_800s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:33:27 PM) ###
+### (Tuesday, December 17, 2019 -- 2:29:35 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersect-------------------------------------------------------------------------------------------------
+### (Friday, December 20, 2019 -- 2:29:37 PM) ###
+-----------------------------------------------------------------
+### (Friday, December 20, 2019 -- 2:29:03 PM) ###
+-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:35:58 PM) ###
+### (Tuesday, December 17, 2019 -- 2:33:27 PM) ###
+### (Tuesday, December 17, 2019 -- 2:29:35 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion plus GE-EG\state_800s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:33:27 PM) ###
+### (Tuesday, December 17, 2019 -- 2:29:35 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersect-------------------------------------------------------------------------------------------------
+### (Friday, December 20, 2019 -- 2:29:37 PM) ###
+-----------------------------------------------------------------
+### (Friday, December 20, 2019 -- 2:29:03 PM) ###
+-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:35:58 PM) ###
+### (Tuesday, December 17, 2019 -- 2:33:27 PM) ###
+### (Tuesday, December 17, 2019 -- 2:29:35 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion plus GE-EG\state_800s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:33:27 PM) ###
+### (Tuesday, December 17, 2019 -- 2:29:35 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersect-------------------------------------------------------------------------------------------------
+### (Friday, December 20, 2019 -- 2:29:37 PM) ###
+-----------------------------------------------------------------
+### (Friday, December 20, 2019 -- 2:29:03 PM) ###
+-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:35:58 PM) ###
+### (Tuesday, December 17, 2019 -- 2:33:27 PM) ###
+### (Tuesday, December 17, 2019 -- 2:29:35 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion plus GE-EG\state_800s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:33:27 PM) ###
+### (Tuesday, December 17, 2019 -- 2:29:35 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersect-------------------------------------------------------------------------------------------------
+### (Friday, December 20, 2019 -- 2:29:37 PM) ###
