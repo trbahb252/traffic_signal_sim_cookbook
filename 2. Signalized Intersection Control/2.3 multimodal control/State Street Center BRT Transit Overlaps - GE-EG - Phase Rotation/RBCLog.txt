@@ -1,0 +1,80 @@
+-----------------------------------------------------------------
+### (Friday, December 20, 2019 -- 3:13:26 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Center BRT Transit Overlaps - GE-EG - Phase Rotation\state_1300s.rbc) --> File Saved
+-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:58:22 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion - GE-EG - Phase Rotation\state_2100s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:56:58 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion - GE-EG - Phase Rotation\stete_1910s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:55:47 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:58:22 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion - GE-EG - Phase Rotation\state_2100s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:56:58 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion - GE-EG - Phase Rotation\stete_1910s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:55:47 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:58:22 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion - GE-EG - Phase Rotation\state_2100s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:56:58 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion - GE-EG - Phase Rotation\stete_1910s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:55:47 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:58:22 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion - GE-EG - Phase Rotation\state_2100s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:56:58 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion - GE-EG - Phase Rotation\stete_1910s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:55:47 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:58:22 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion - GE-EG - Phase Rotation\state_2100s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:56:58 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion - GE-EG - Phase Rotation\stete_1910s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:55:47 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:58:22 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion - GE-EG - Phase Rotation\state_2100s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:56:58 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion - GE-EG - Phase Rotation\stete_1910s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:55:47 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:58:22 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion - GE-EG - Phase Rotation\state_2100s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:56:58 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion - GE-EG - Phase Rotation\stete_1910s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:55:47 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:58:22 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion - GE-EG - Phase Rotation\state_2100s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:56:58 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion - GE-EG - Phase Rotation\stete_1910s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:55:47 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:58:22 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion - GE-EG - Phase Rotation\state_2100s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:56:58 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion - GE-EG - Phase Rotation\stete_1910s.rbc) --> File Saved
+### (Tuesday, December 17, 2019 -- 2:55:47 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:58:22 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\state street brt-bike Phase Insertion - GE-EG - Phase Rotation\state_2100s.rbc) --> File Saved
