@@ -1,0 +1,4 @@
+-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 3:29:11 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Center BRT Phase Insertion\state_800s.rbc) --> File Saved
