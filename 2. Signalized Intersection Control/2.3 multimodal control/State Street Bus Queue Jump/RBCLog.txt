@@ -1,0 +1,69 @@
+-----------------------------------------------------------------
+### (Friday, December 20, 2019 -- 4:07:54 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_1300s.rbc) --> File Saved
+-----------------------------------------------------------------
+### (Wednesday, December 18, 2019 -- 4:35:07 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_900s.rbc) --> File Saved
+### (Wednesday, December 18, 2019 -- 4:34:53 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_1300s.rbc) --> File Saved
+### (Wednesday, December 18, 2019 -- 4:34:41 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_1700s.rbc) --> File Saved
+-----------------------------------------------------------------
+### (Wednesday, December 18, 2019 -- 4:35:07 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_900s.rbc) --> File Saved
+-----------------------------------------------------------------
+### (Wednesday, December 18, 2019 -- 4:34:53 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_1300s.rbc) --> File Saved
+### (Wednesday, December 18, 2019 -- 4:34:41 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_1700s.rbc) --> File Saved
+### (Wednesday, December 18, 2019 -- 4:35:07 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_900s.rbc) --> File Saved
+### (Wednesday, December 18, 2019 -- 4:34:53 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_1300s.rbc) --> File Saved
+### (Wednesday, December 18, 2019 -- 4:34:41 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_1700s.rbc) --> File Saved
+-----------------------------------------------------------------
+### (Wednesday, December 18, 2019 -- 4:35:07 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_900s.rbc) --> File Saved
+-----------------------------------------------------------------
+### (Wednesday, December 18, 2019 -- 4:34:53 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_1300s.rbc) --> File Saved
+### (Wednesday, December 18, 2019 -- 4:34:41 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_1700s.rbc) --> File Saved
+### (Wednesday, December 18, 2019 -- 4:35:07 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_900s.rbc) --> File Saved
+### (Wednesday, December 18, 2019 -- 4:34:53 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_1300s.rbc) --> File Saved
+### (Wednesday, December 18, 2019 -- 4:34:41 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_1700s.rbc) --> File Saved
+-----------------------------------------------------------------
+### (Wednesday, December 18, 2019 -- 4:35:07 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_900s.rbc) --> File Saved
+-----------------------------------------------------------------
+### (Wednesday, December 18, 2019 -- 4:34:53 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_1300s.rbc) --> File Saved
+### (Wednesday, December 18, 2019 -- 4:34:41 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_1700s.rbc) --> File Saved
+### (Wednesday, December 18, 2019 -- 4:35:07 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_900s.rbc) --> File Saved
+### (Wednesday, December 18, 2019 -- 4:34:53 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_1300s.rbc) --> File Saved
+### (Wednesday, December 18, 2019 -- 4:34:41 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_1700s.rbc) --> File Saved
+-----------------------------------------------------------------
+### (Wednesday, December 18, 2019 -- 4:35:07 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\2.6 Multimodal Intersection Control\TSP\State Street Bus Queue Jump\state_900s.rbc) --> File Saved
+-----------------------------------------------------------------
+### (Wednesday, December 18, 2019 -- 4:34:53 PM) ###
