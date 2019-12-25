@@ -1,0 +1,25 @@
+ExceptionCode = 3221225477
+ExceptionFlags = 0
+ExceptionAddress = 000007FEC629E399ExceptionCode = 3221225477
+ExceptionFlags = 0
+ExceptionAddress = 000007FEC6E2E399
+Simulation: Run 0 39.4 sec, ExceptionCode = 3221225477
+ExceptionFlags = 0
+ExceptionAddress = 000007FEC6E2E399
+Simulation: Run 0 90 sec, The error occurred in line 542 of file netzwin.cpp in function long __cdecl main_eh(void *,struct XVT2DOTNET::s_event *).
+Information:
+not available
+Stack:
+0xffffffffffffffff
+0xfffffffffffffffe
+0x248060
+0x248170
+
+Simulation: Run 0 90 sec, ExceptionCode = 3221225477
+ExceptionFlags = 0
+ExceptionAddress = 000007FEC6E2E399
+Simulation: Run 0 90 sec, ExceptionCode = 3221225477
+ExceptionFlags = 0
+ExceptionAddress = 0000000000000000ExceptionCode = 3221225477
+ExceptionFlags = 0
+ExceptionAddress = 000007FEB60ADDBC

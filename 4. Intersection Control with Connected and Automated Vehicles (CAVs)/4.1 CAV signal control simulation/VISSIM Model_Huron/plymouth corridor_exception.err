@@ -1,0 +1,93 @@
+ExceptionCode = 3221225477
+ExceptionFlags = 0
+ExceptionAddress = 000007FECC4CE399
+Simulation: Run 0 0.1 sec, The error occurred in line 542 of file netzwin.cpp in function long __cdecl main_eh(void *,struct XVT2DOTNET::s_event *).
+Information:
+not available
+Stack:
+0xffffffffffffffff
+0xfffffffffffffffe
+0x2a80a0
+0x2a81b0
+
+Simulation: Run 0 0.1 sec, ExceptionCode = 3221225477
+ExceptionFlags = 0
+ExceptionAddress = 000007FECC4CE399
+Simulation: Run 0 0.1 sec, ExceptionCode = 3221225477
+ExceptionFlags = 0
+ExceptionAddress = 000007FECB112243
+Simulation: Run 0 20.8 sec, ExceptionCode = 3221225477
+ExceptionFlags = 0
+ExceptionAddress = 000007FECC46E399
+Simulation: Run 0 1.2 sec, The error occurred in line 542 of file netzwin.cpp in function long __cdecl main_eh(void *,struct XVT2DOTNET::s_event *).
+Information:
+not available
+Stack:
+0xffffffffffffffff
+0xfffffffffffffffe
+0x2a8560
+0x2a8670
+
+Simulation: Run 0 1.2 sec, ExceptionCode = 3221225477
+ExceptionFlags = 0
+ExceptionAddress = 000007FECC46E399
+Simulation: Run 0 1.2 sec, ExceptionCode = 3221225477
+ExceptionFlags = 0
+ExceptionAddress = 000007FECC5FE399ExceptionCode = 3221225477
+ExceptionFlags = 0
+ExceptionAddress = 000007FECC84E399ExceptionCode = 3221225477
+ExceptionFlags = 0
+ExceptionAddress = 000007FECEDCE399
+Simulation: Run 0 0.1 sec, The error occurred in line 542 of file netzwin.cpp in function long __cdecl main_eh(void *,struct XVT2DOTNET::s_event *).
+Information:
+not available
+Stack:
+0xffffffffffffffff
+0xfffffffffffffffe
+0x148360
+0x148470
+
+Simulation: Run 0 0.1 sec, ExceptionCode = 3221225477
+ExceptionFlags = 0
+ExceptionAddress = 000007FECEDCE399
+Simulation: Run 0 0.1 sec, ExceptionCode = 3221225477
+ExceptionFlags = 0
+ExceptionAddress = 000007FECD63E399ExceptionCode = 3221225477
+ExceptionFlags = 0
+ExceptionAddress = 000007FECD63E399ExceptionCode = 3221225477
+ExceptionFlags = 0
+ExceptionAddress = 000007FECD63E399
+Simulation: Run 0 0.1 sec, The error occurred in line 542 of file netzwin.cpp in function long __cdecl main_eh(void *,struct XVT2DOTNET::s_event *).
+Information:
+not available
+Stack:
+0xffffffffffffffff
+0xfffffffffffffffe
+0x2783e0
+0x2784f0
+
+Simulation: Run 0 0.1 sec, ExceptionCode = 3221225477
+ExceptionFlags = 0
+ExceptionAddress = 000007FECF1DE399
+Simulation: Run 0 0.1 sec, The error occurred in line 542 of file netzwin.cpp in function long __cdecl main_eh(void *,struct XVT2DOTNET::s_event *).
+Information:
+not available
+Stack:
+0xffffffffffffffff
+0xfffffffffffffffe
+0x228260
+0x228370
+
+Simulation: Run 0 0.1 sec, ExceptionCode = 3221225477
+ExceptionFlags = 0
+ExceptionAddress = 000007FECF1DE399
+Simulation: Run 0 26.9 sec, The error occurred in line 542 of file netzwin.cpp in function long __cdecl main_eh(void *,struct XVT2DOTNET::s_event *).
+Information:
+not available
+Stack:
+0xffffffffffffffff
+0xfffffffffffffffe
+0x308160
+0x308270
+
+Simulation: Run 0 26.9 sec, 
