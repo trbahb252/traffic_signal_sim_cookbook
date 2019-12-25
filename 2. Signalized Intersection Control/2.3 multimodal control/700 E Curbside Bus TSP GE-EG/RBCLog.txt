@@ -1,0 +1,104 @@
+-----------------------------------------------------------------
+### (Friday, December 20, 2019 -- 2:01:39 PM) ###
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:01:10 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\working docs\VISSIM models\700 E\700 e bus-bike TSP\700e_1300s.rbc) --> File Saved
+### (Friday, September 23, 2016 -- 3:33:51 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_2100s.rbc) --> File Saved
+### (Friday, September 23, 2016 -- 3:32:52 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_1700s.rbc) --> File Saved
+### (Friday, September 23, 2016 -- 3:30:55 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_1300s.rbc) --> File Saved
+### (Fr-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:01:10 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\working docs\VISSIM models\700 E\700 e bus-bike TSP\700e_1300s.rbc) --> File Saved
+-----------------------------------------------------------------
+### (Friday, September 23, 2016 -- 3:33:51 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_2100s.rbc) --> File Saved
+### (Friday, September 23, 2016 -- 3:32:52 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_1700s.rbc) --> File Saved
+### (Friday, September 23, 2016 -- 3:30:55 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_1300s.rbc) --> File Saved
+### (Fr-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:01:10 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\working docs\VISSIM models\700 E\700 e bus-bike TSP\700e_1300s.rbc) --> File Saved
+-----------------------------------------------------------------
+### (Friday, September 23, 2016 -- 3:33:51 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_2100s.rbc) --> File Saved
+### (Friday, September 23, 2016 -- 3:32:52 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_1700s.rbc) --> File Saved
+### (Friday, September 23, 2016 -- 3:30:55 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_1300s.rbc) --> File Saved
+### (Fr-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:01:10 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\working docs\VISSIM models\700 E\700 e bus-bike TSP\700e_1300s.rbc) --> File Saved
+-----------------------------------------------------------------
+### (Friday, September 23, 2016 -- 3:33:51 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_2100s.rbc) --> File Saved
+### (Friday, September 23, 2016 -- 3:32:52 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_1700s.rbc) --> File Saved
+### (Friday, September 23, 2016 -- 3:30:55 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_1300s.rbc) --> File Saved
+### (Fr-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:01:10 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\working docs\VISSIM models\700 E\700 e bus-bike TSP\700e_1300s.rbc) --> File Saved
+-----------------------------------------------------------------
+### (Friday, September 23, 2016 -- 3:33:51 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_2100s.rbc) --> File Saved
+### (Friday, September 23, 2016 -- 3:32:52 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_1700s.rbc) --> File Saved
+### (Friday, September 23, 2016 -- 3:30:55 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_1300s.rbc) --> File Saved
+### (Fr-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:01:10 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\working docs\VISSIM models\700 E\700 e bus-bike TSP\700e_1300s.rbc) --> File Saved
+-----------------------------------------------------------------
+### (Friday, September 23, 2016 -- 3:33:51 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_2100s.rbc) --> File Saved
+### (Friday, September 23, 2016 -- 3:32:52 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_1700s.rbc) --> File Saved
+### (Friday, September 23, 2016 -- 3:30:55 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_1300s.rbc) --> File Saved
+### (Fr-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:01:10 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\working docs\VISSIM models\700 E\700 e bus-bike TSP\700e_1300s.rbc) --> File Saved
+-----------------------------------------------------------------
+### (Friday, September 23, 2016 -- 3:33:51 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_2100s.rbc) --> File Saved
+### (Friday, September 23, 2016 -- 3:32:52 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_1700s.rbc) --> File Saved
+### (Friday, September 23, 2016 -- 3:30:55 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_1300s.rbc) --> File Saved
+### (Fr-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:01:10 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\working docs\VISSIM models\700 E\700 e bus-bike TSP\700e_1300s.rbc) --> File Saved
+-----------------------------------------------------------------
+### (Friday, September 23, 2016 -- 3:33:51 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_2100s.rbc) --> File Saved
+### (Friday, September 23, 2016 -- 3:32:52 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_1700s.rbc) --> File Saved
+### (Friday, September 23, 2016 -- 3:30:55 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_1300s.rbc) --> File Saved
+### (Fr-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:01:10 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(C:\Users\mzlatkov\Desktop\Simulation cookbook\working docs\VISSIM models\700 E\700 e bus-bike TSP\700e_1300s.rbc) --> File Saved
+-----------------------------------------------------------------
+### (Friday, September 23, 2016 -- 3:33:51 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_2100s.rbc) --> File Saved
+### (Friday, September 23, 2016 -- 3:32:52 PM) ###
+-----------------------------------------------------------------
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_1700s.rbc) --> File Saved
+### (Friday, September 23, 2016 -- 3:30:55 PM) ###
+[SUCCESS] : RBCGUI::SaveFile(z:\mzlatkov\improvements\700 e bus-bike tsp\700e_1300s.rbc) --> File Saved
+### (Fr-----------------------------------------------------------------
+### (Tuesday, December 17, 2019 -- 2:01:10 PM) ###
