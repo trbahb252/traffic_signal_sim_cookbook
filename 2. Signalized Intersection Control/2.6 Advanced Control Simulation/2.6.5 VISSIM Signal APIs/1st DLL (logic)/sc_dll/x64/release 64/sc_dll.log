@@ -1,0 +1,12 @@
+﻿  lsa_fehl.cpp
+  lsa_puff.cpp
+  lsa_rahm.cpp
+  sc_dll_functions.cpp
+  sc_dll_main.cpp
+  SC_Interface.cpp
+     Creating library C:\UTA\OneDrive - University of Texas at Arlington\UTA\AHB25 Sim Cookbook\src_deliverables\VTDatex_TCPIP\x64\release 64\VTDatex_TCP.lib and object C:\UTA\OneDrive - University of Texas at Arlington\UTA\AHB25 Sim Cookbook\src_deliverables\VTDatex_TCPIP\x64\release 64\VTDatex_TCP.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 449 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  sc_dll.vcxproj -> C:\UTA\OneDrive - University of Texas at Arlington\UTA\AHB25 Sim Cookbook\src_deliverables\VTDatex_TCPIP\x64\release 64\VTDatex_TCP.dll

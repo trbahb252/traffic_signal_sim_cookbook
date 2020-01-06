@@ -1,0 +1,57 @@
+New features and bugfixes in the SignalControl.DLL API              (2007-05-23)
+======================================================
+(+ = new features, - = bugs that have been fixed. 
+ Details about the fixes are in brackets.)
+
+(2007-05-23)
+------------
++ SC_Interface.h/.cpp:
+  Added support for silent mode of the simulation, using the code CONSOLE_MODE. 
+  If this mode is set the controller should not display dialog boxes that wait 
+  for user input.
+  Added support for multirun and the parallel version of VISSIM. Both require
+  that error file names contain the process id and simulation run index. 
+  For this purpose VISSIM sends a number calculated as 
+    process id * 100 + the index of the simulation run.
+  After the simulation run the status of the controller is returned using the 
+  code SC_DLL_DATA_TERMINATION, passing the error file name to VISSIM.
++ sc_dll_functions.h/.cpp:
+  Added an object iterator that allows to iterate over all signal groups or all
+  detectors of the current SC.
+  A detector additionally contains its name and its type. This version 
+  differentiates between detectors for traffic and detectors for pedestrians. 
+  A pedestrian detector is a detector that detects only vehicle types with 
+  category pedestrian.
+  New functions IsConsoleMode() and ProcessSimRunID() to determine the mode
+  that VISSIM is in for display of error messages and output file names.
+- lsa_puff.cpp:
+  LongToLSAPuffer() deletes the list of PT telegrams at the start of the data
+  passed for each SC if the controller frequency is >1, so CP_Telegrams() 
+  returns always zero if more than one SC uses this controller DLL.
+
+(2005-11-18)
+------------
++ SC_Interface.h/.cpp:
+  New data type SC_DLL_DATA_SIM_DATE.
+  lsa_puff.h/.cpp:
+  New global variable SimulationDate.
+  sc_dll_functions.h/.cpp:
+  New function Sim_Start_Date().
+
+(2005-09-30)
+------------
++ SC_Interface.h/.cpp:
+  New data types SC_DLL_DATA_LICENSE_CONTROLLERS and SC_DLL_DATA_SIM_TIME_OF_DAY.
+  lsa_puff.h/.cpp:
+  New global variable SimulationTimeOfDay.
+  sc_dll_functions.h/.cpp:
+  New function Sim_Time_of_Day().
+
+(2005-05-02)
+------------     
++ lsa_rahm.h: 
+  CONTROLLER_DLL_NAME #defined as "simpledll.dll"
+- sc_dll_functions.cpp: 
+  SG_SetState() uses index in call of VonLSA() where it should use sg_no.
+  This will cause calls of SG_SetState() to affect the wrong signal groups
+  and can cause the signal controller DLL to crash.
