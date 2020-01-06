@@ -1,0 +1,4 @@
+              fatal error	ExceptionCode = -1073741819 ExceptionFlags = 0 ExceptionAddress = 0x215059eb6eb
+              fatal error	The error occurred in line 638 of file c:\build\vissim\vissim110\vissim\vissim\netzwin.cpp in function long __cdecl main_eh(void *,struct XVT2DOTNET::s_event *). Information: not available Stack: 0x0000001D7C6FDA20 
+                     Note	Stop the simulation? : &No
+                     Note	Stop the simulation? : &Yes

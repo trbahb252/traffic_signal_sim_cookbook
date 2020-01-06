@@ -1,0 +1,37 @@
+ExceptionCode = -1073741819
+ExceptionFlags = 0
+ExceptionAddress = 0x215059eb6eb
+Simulation: Run 0 0.10 sec, The error occurred in line 638 of file c:\build\vissim\vissim110\vissim\vissim\netzwin.cpp in function long __cdecl main_eh(void *,struct XVT2DOTNET::s_event *).
+Information:
+not available
+Stack:
+0x0000001D7C6FDA20
+
+Simulation: Run 0 0.10 sec, ExceptionCode = -1073741819
+ExceptionFlags = 0
+ExceptionAddress = 0x20e0225b6eb
+Simulation: Run 0 0.10 sec, The error occurred in line 638 of file c:\build\vissim\vissim110\vissim\vissim\netzwin.cpp in function long __cdecl main_eh(void *,struct XVT2DOTNET::s_event *).
+Information:
+not available
+Stack:
+0x000000A79236E050
+
+Simulation: Run 0 0.10 sec, ExceptionCode = -1073741819
+ExceptionFlags = 0
+ExceptionAddress = 0x2368c38b6eb
+Simulation: Run 0 0.10 sec, The error occurred in line 638 of file c:\build\vissim\vissim110\vissim\vissim\netzwin.cpp in function long __cdecl main_eh(void *,struct XVT2DOTNET::s_event *).
+Information:
+not available
+Stack:
+0x0000006C5DCFDAE0
+
+Simulation: Run 0 0.10 sec, ExceptionCode = -1073741819
+ExceptionFlags = 0
+ExceptionAddress = 0x7ffa3837fcb1
+Simulation: Run 0 1392.70 sec, The error occurred in line 638 of file c:\build\vissim\vissim110\vissim\vissim\netzwin.cpp in function long __cdecl main_eh(void *,struct XVT2DOTNET::s_event *).
+Information:
+not available
+Stack:
+0x000000C45C2FD930
+
+Simulation: Run 0 1392.70 sec, 
