@@ -1,0 +1,4 @@
+﻿  tcpclient.cpp
+C:\UTA\OneDrive - University of Texas at Arlington\UTA\AHB25 Sim Cookbook\src_deliverables\tcpclient\tcpclient\tcpclient.cpp(25,1): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(1831): message : see declaration of 'inet_addr'
+  tcpclient.vcxproj -> C:\UTA\OneDrive - University of Texas at Arlington\UTA\AHB25 Sim Cookbook\src_deliverables\tcpclient\Debug\tcpclient.exe
